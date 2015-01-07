@@ -1,0 +1,10 @@
+{
+	"api_port" : 8081,
+	"num_processes" : 5,
+	"api_client" : "dropbox",
+	"dropbox" : {
+		"app_key" : "YOUR APP KEY",
+		"app_secret" : "YOUR APP SECRET"
+	},
+	"video_root" : "FOLDER PATH OR ID WHERE VIDEOS ARE STORED"
+}
